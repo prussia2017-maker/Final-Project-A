@@ -15,7 +15,7 @@ the store item: ");
    // Adds the selected menu item to the shopping cart
       cartPrices[itemCount] = menuPrice[itemNum];
           itemCount++;
-   // Increments the item count by 1 in shoppping cart
+   // Increments the item count by 1 in shopping cart
    System.out.println("Record added.");
     }
                    break;
